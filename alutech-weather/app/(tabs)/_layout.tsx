@@ -35,7 +35,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="Forecast"
         options={{
-          title: 'Explore',
+          title: 'nnganskdnaks',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
         }}
       />
